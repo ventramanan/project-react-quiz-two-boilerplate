@@ -1,0 +1,71 @@
+body{
+  background-color: rgba(18, 18, 97, 0.909);
+}
+.Div{
+  background-color: white;
+  width: 60vw;
+  height:60vh;
+  border: 1px solid black;
+  margin-top:5vw;
+  margin-left:15vw;
+
+
+}
+.ops{
+  position: relative;
+  left:5px;
+}
+#op{
+    background-color:rgba(29, 115, 213, 0.831);
+    margin-right: 10px;
+    border-radius: 50px;
+    width:40vw;
+    color: white;
+   
+}
+.op1{
+  display: flex;
+  justify-content: space-between;
+  margin-top:3vw;
+
+}
+.para{
+  margin-top:2vw;
+}
+.options{
+  margin-top: 5vw;
+}
+.bt1{
+  background-color: rgba(42, 135, 135, 0.658);
+  border: none;
+  padding:5px;
+  width:9.5vw;
+  margin-right:2vw ;
+ 
+  
+}
+.bt2{
+  background-color: darkgreen;
+  border: none;
+  padding:5px;
+  width:8vw;
+  margin-right:2vw;
+}
+.bt3{
+  background-color: red;
+  border: none;
+  padding:5px;
+  width:8vw;
+  margin-right: 2vw;
+}
+.bts{
+  margin-top: 5vw;
+  display: flex;
+  justify-content: center;
+
+ 
+}
+.number{
+  text-align: left;
+  margin-left: 2vw;
+}
