@@ -18,7 +18,7 @@ export default function Mainpage() {
     } 
   }
   function prev(){
-    alert("to what to quit the game")
+    alert("Are you sure do want to quit")
     window.location.reload();
 
   }
